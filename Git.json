@@ -1,0 +1,37 @@
+[
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_customers.csv",
+        "p_sink_folder" : "blinkit_customers",
+        "p_sink_file" : "blinkit_customers.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_customer_feedback.csv",
+        "p_sink_folder" : "blinkit_customer_feedback",
+        "p_sink_file" : "blinkit_customer_feedback.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_orders.csv",
+        "p_sink_folder" : "blinkit_orders",
+        "p_sink_file" : "blinkit_orders.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_order_items.csv",
+        "p_sink_folder" : "blinkit_order_items",
+        "p_sink_file" : "blinkit_order_items.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_products.csv",
+        "p_sink_folder" : "blinkit_products",
+        "p_sink_file" : "blinkit_products.csv"
+    },
+    {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_marketing_performance.csv",
+        "p_sink_folder" : "blinkit_marketing_performance",
+        "p_sink_file" : "blinkit_marketing_performance.csv"
+    },
+     {
+        "p_rel_url" : "MahalakshmiVellingiri/Blinkit_Sales_Analyses/refs/heads/main/blinkit_delivery_performance.csv",
+        "p_sink_folder" : "blinkit_delivery_performance",
+        "p_sink_file" : "blinkit_delivery_performance.csv"
+    }
+]
